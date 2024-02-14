@@ -1,20 +1,17 @@
-# Superstore-Sales-Dashboard-Using-Power-Bi
+# Superstore Sales Dashboard Using Power Bi
 
 ### The interactive dashboard is designed to be used by retailers and provide them with a high-level to granular understanding of how different products perform. It provides an overview of total sales, with the ability to showcase yearly, quarterly, and monthly growth rates.
 
-## Objective
-To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
+
+## Problem Statement
+The Superstore is looking to increase sales and profitability across all regions and product categories. They need to identify which regions and categories are performing well and which ones are underperforming and develop strategies to improve performance.
 
 ## Process
-To help supermarkets achieve their goals for growth, efficiency, and customer satisfaction, I can assist in several ways.
-
-1. I can help identify key performance indicators (KPIs) and design an intuitive and visually appealing dashboard. This dashboard can include interactive visualizations and filtering capabilities, allowing users to explore data at different levels of detail.
-
-2. I can provide valuable insights to businesses about the effectiveness of their sales strategies through charts and visualizations. This will help them make informed decisions about how to improve their sales performance.
-
-3. I can leverage historical data and apply time series analysis to generate sales forecasts for the next 6 months. This will provide businesses with a better understanding of future sales trends, allowing them to plan and prepare accordingly.
-
-Overall, my ultimate goal is to provide useful insights and actionable information that can support strategic decision-making and help businesses achieve their objectives.
+* Project File received in Microsoft Excel Worksheet format, Go through the data and prepare the key points to follow.
+* Data Cleaning done in Excel
+* Data Transformation prepared some columns and some imp calculations for KPI
+* Data is Transformed in Power BI and Loaded to Visualised the Data
+  
 
 ## Interactive Dashboard
 
@@ -22,9 +19,21 @@ Overall, my ultimate goal is to provide useful insights and actionable informati
 
 
 ## Project Insights
-* The sales total for this period was 2 million, resulting in a profit of 175k. Unfortunately, there were 5901 product returns.
-* The profit was divided by category and segment, with the technology category being the most profitable and the corporate segment generating the most profit.
-* Based on our analysis of profit across different regions, it appears that the western region is the most profitable. However, it's important to note that profitability can vary based on a number of factors and it's always important to consider the specific circumstances in each case.
+* Sales by Region: Central is the highest performing region, followed by West and South. East is the lowest performing region.
+* Sales by Country: The United States is the highest performing country, followed by Canada and Mexico.
+* Sales by Sub-Category: Office Supplies is the highest performing sub-category, followed by Phones and Storage. Tables is the lowest performing sub-category.
+* Sales by Payment Mode: COD is the most popular payment mode, followed by Cards and Online.
+* Sales by Month: December is the highest performing month, followed by November and October. April is the lowest performing month.
+* Sum of Profit by Month: December is the most profitable month, followed by November and October. April is the least profitable month.
+* Sum of Sales by Ship Mode: Standard Class is the most popular ship mode, followed by Second Class and First Class. Same Day is the least popular ship mode.
+
 
 ## Conclusion
-We have utilized Power BI to analyze the sales data of our superstore and have gathered valuable insights that can significantly benefit business owners and decision-makers. Through this analysis, we have identified customer behavior, identified our top-performing products, and developed accurate sales forecasts. By utilizing this information, businesses can optimize their operations and effectively drive growth. I am thrilled to incorporate these insights into our future endeavors and believe they will elevate our business to new heights.
+We have utilized Power BI to analyze the sales data of our superstore and have gathered valuable insights that can significantly benefit business owners and decision-makers. Through this analysis, we have identified The superstore is performing well in the Central region and with COD payments. Sales are highest in December and November and lowest in April. Technology, Office Supplies, and Furniture are the top-selling categories, with Phones, Tables, and Storage being the best-selling sub-categories. Profits are highest in December and November and lowest in April. Standard Class shipping is the most popular, followed by Second Class and First Class. Same Day shipping is the least popular.
+
+## Suggestions
+Focus marketing and sales efforts on the West region to increase sales.
+Offer incentives to customers to use Card and Online payment methods.
+Run promotions and discounts in April to boost sales during that month.
+Invest in marketing and advertising for Technology, Office Supplies, and Furniture categories.
+Consider offering Same Day shipping for free or at a discounted rate to make it more competitive.
